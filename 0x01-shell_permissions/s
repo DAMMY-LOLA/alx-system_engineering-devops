@@ -1,0 +1,67 @@
+mod: cannot access 'Write': No such file or directory                                                      
+chmod: cannot access 'a': No such file or directory                                                          
+chmod: cannot access 'script': No such file or directory                                                     
+chmod: cannot access 'that': No such file or directory                                                       
+chmod: cannot access 'changes': No such file or directory                                                    
+chmod: cannot access 'the': No such file or directory                                                        
+chmod: cannot access 'group': No such file or directory                                                      
+chmod: cannot access 'owner': No such file or directory                                                      
+chmod: cannot access 'to': No such file or directory                                                         
+chmod: cannot access 'school': No such file or directory                                                     
+chmod: cannot access 'for': No such file or directory                                                        
+chmod: cannot access 'the': No such file or directory                                                        
+chmod: cannot access 'file': No such file or directory                                                       
+chmod: cannot access 'hello': No such file or directory                                                      
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions#                                     
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 13-change_group           
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 12-directory_permissions  
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git add .                           
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git commit -m '12and13'             
+[master 0e501db] 12and13                                                                                     
+ 2 files changed, 4 insertions(+)                                                                            
+ create mode 100755 0x01-shell_permissions/12-directory_permissions                                          
+ create mode 100755 0x01-shell_permissions/13-change_group                                                   
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git push                            
+Enumerating objects: 7, done.                                                                                
+Counting objects: 100% (7/7), done.                                                                          
+Delta compression using up to 2 threads                                                                      
+Compressing objects: 100% (4/4), done.                                                                       
+Writing objects: 100% (5/5), 491 bytes | 491.00 KiB/s, done.                                                 
+Total 5 (delta 2), reused 0 (delta 0)                                                                        
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.                                        
+To https://github.com/DAMMY-LOLA/alx-system_engineering-devops.git                                           
+   8caf340..0e501db  master -> master                                                                        
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# vi                      mod: cannot access 'Write': No such file or directory                                                      
+chmod: cannot access 'a': No such file or directory                                                          
+chmod: cannot access 'script': No such file or directory                                                     
+chmod: cannot access 'that': No such file or directory                                                       
+chmod: cannot access 'changes': No such file or directory                                                    
+chmod: cannot access 'the': No such file or directory                                                        
+chmod: cannot access 'group': No such file or directory                                                      
+chmod: cannot access 'owner': No such file or directory                                                      
+chmod: cannot access 'to': No such file or directory                                                         
+chmod: cannot access 'school': No such file or directory                                                     
+chmod: cannot access 'for': No such file or directory                                                        
+chmod: cannot access 'the': No such file or directory                                                        
+chmod: cannot access 'file': No such file or directory                                                       
+chmod: cannot access 'hello': No such file or directory                                                      
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions#                                     
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 13-change_group           
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 12-directory_permissions  
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git add .                           
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git commit -m '12and13'             
+[master 0e501db] 12and13                                                                                     
+ 2 files changed, 4 insertions(+)                                                                            
+ create mode 100755 0x01-shell_permissions/12-directory_permissions                                          
+ create mode 100755 0x01-shell_permissions/13-change_group                                                   
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# git push                            
+Enumerating objects: 7, done.                                                                                
+Counting objects: 100% (7/7), done.                                                                          
+Delta compression using up to 2 threads                                                                      
+Compressing objects: 100% (4/4), done.                                                                       
+Writing objects: 100% (5/5), 491 bytes | 491.00 KiB/s, done.                                                 
+Total 5 (delta 2), reused 0 (delta 0)                                                                        
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.                                        
+To https://github.com/DAMMY-LOLA/alx-system_engineering-devops.git                                           
+   8caf340..0e501db  master -> master                                                                        
+root@b6cde62249e6:/alx-system_engineering-devops/0x01-shell_permissions# vi                                   
